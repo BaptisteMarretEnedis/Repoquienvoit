@@ -1,6 +1,22 @@
-# Bienvenue !
+# Bienvenue ! 
 
-`[Texte alternatif](/chemin/access/image.jpg "Titre de l'image")`.
+> **[⚙️ Comment utiliser ce Git ?](#utilisergit)**
+>  **[🛠️ Les contributions externes d'Enedis](#contribext)**
+>  **[🎯 Enedis et l'Open Source](#enedisetOpS)**
+>  **[👊🏻 L'équipe OSCoE](#equipeOSCOE)**
+>  **[🔗 Liens](#Liens)**
+>  **[📧 Contact](#Contact)**
+>  **[👷‍♂️ Contributeurs](#Contributeurs)**
+
+
+
+
+ 
+
+
+
+
+
 Bienvenue sur le GitHub Organisation officiel d'Enedis. Il a pour vocation d'officialiser et centraliser le dépôt de code Open Source Enedis.
 
 Ce dépôt a pour objectif de centraliser les dépôts Open Source Enedis, il a vocation à être un référentiel. Vous trouverez dedans :
@@ -9,29 +25,29 @@ Ce dépôt a pour objectif de centraliser les dépôts Open Source Enedis, il a 
 
 - **Les projets initiés par Enedis**
 
-## ⚙️ Comment utiliser ce Git ?
+## ⚙️ Comment utiliser ce Git ?  <a id="utilisergit"></a>
 
 - **Pour les externes à Enedis** : le processus est précisé dans contribution.md. Il faudra forker le projet dans un premier temps, puis formuler une pull request une fois les modifications terminées.
 - **Pour les internes à Enedis** : Vous pouvez contribuer directement sur ce Git. Pour créer un projet Open Source, utilisez la [**charte Open Source Enedis**](https://goconfluence.enedis.fr/display/ASA/Charte+Open+Source)
 
-## 🛠️ Les contributions externes d'Enedis
+## 🛠️ Les contributions externes d'Enedis  <a id="contribext"></a>
 Vous trouverez ci-dessous une liste de dépôts auxquels Enedis contribue. Il peut s'agir de projets externes, ou de projets Enedis qui n'ont pas encore été rapatriés sur ce Git.
 
-## 🎯 Enedis et l'Open Source
+## 🎯 Enedis et l'Open Source <a id="enedisetOpS"></a>
 
-## 👊🏻 L'équipe OSCoE
+## 👊🏻 L'équipe OSCoE  <a id="equipeOSCOE"></a>
 
-## 🔗 Liens
+## 🔗 Liens <a id="Liens"></a>
 - [**Dépôt NPM Enedis**](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 - [**Confluence OSCoE Enedis**](https://goconfluence.enedis.fr/display/ASA/OSCoE) : Open Source Center of Excellence, qui porte la politique Open Source au sein de la DSI. Réservé aux internes à Enedis.
 - [**TOSIT**](https://tosit.fr/) : Enedis est membre du TOSIT, une structure de soutien à l’[Open Source](https://fr.wikipedia.org/wiki/Open_source) qui vise à soutenir l’émergence de codes, logiciels et solutions informatiques sous licence open source et/ou licence libre, notamment en matière de cybersécurité.
-## 📧 Contact
+## 📧 Contact <a id="Contact"></a>
 [dsi-oscoe-enedis@enedis.fr](mailto:dsi-oscoe-enedis@enedis.fr)
-> Remarque : 
+
 ### Pour ne rien rater :
 
 
-## 👷‍♂️ Contributeurs
+## 👷‍♂️ Contributeurs <a id="Contributeurs"></a>
 
 
 <h1 align="center">
@@ -68,6 +84,11 @@ Vous trouverez ci-dessous une liste de dépôts auxquels Enedis contribue. Il pe
 </p>
 
 ![screenshot](https://github.com/BaptisteMarretEnedis/Repoquienvoit/blob/main/887639.jpg)
+
+
+
+
+
 
 
 
